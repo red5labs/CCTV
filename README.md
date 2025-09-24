@@ -19,8 +19,11 @@ rtsp://xxx.xxx.xxx.xxx/axis-media/media.amp?camera=2 (stream 2 / View Area 2 H.2
 rtsp://<username>:<password>@<ip>:<port>/cam/realmonitor?channel=<channelNo>&subtype=<typeNo>
 
 <ip> – the IP address of the IP Camera.
+
 <port> – the default port is 554. It can be omitted.
+
 <channelNo> – the channel number. It starts from 1.
+
 <typeNo> – the stream type. The <typeNo> of main stream is 0, extra stream 1 is 1, extra stream 2 is 2.
 
 
