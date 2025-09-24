@@ -8,8 +8,11 @@ rtsp://username:password@IPaddress:554/cam/realmonitor?channel=1&subtype=0
 
 ### Axis
 rtsp://ip-addr/axis-media/media.amp
+
 rtsp://xxx.xxx.xxx.xxx/mpeg4/media.amp
+
 rtsp://xxx.xxx.xxx.xxx:554/axis-media/media.amp
+
 rtsp://xxx.xxx.xxx.xxx/axis-media/media.amp?camera=2 (stream 2 / View Area 2 H.264)
 
 ### Canon
