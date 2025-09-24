@@ -33,9 +33,14 @@ See Dahua
 
 ### Panasonic
 rtsp://192.168.0.253:port//nphMpeg4/g726-640×48
+
 rtsp://192.168.0.253/nphMpeg4/g726-640×480
+
 rtsp://192.168.0.253/nphMpeg4/nil-320×240
+
 rtsp://192.168.0.253/MediaInput/h264
+
 rtsp://192.168.0.253/nphMpeg4/g726-640x
+
 rtsp://192.168.0.253/MediaInput/mpeg4
 
