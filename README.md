@@ -4,7 +4,7 @@ Repository of CCTV, IP Camera, and other camera/device information.
 ## Stream Profiles
 
 ### Amcrest
-rtsp://[username]:password@IPaddress:554/cam/realmonitor?channel=1&subtype=0
+rtsp://username:password@IPaddress:554/cam/realmonitor?channel=1&subtype=0
 
 ### Axis
 rtsp://ip-addr/axis-media/media.amp
@@ -18,18 +18,18 @@ rtsp://xxx.xxx.xxx.xxx/axis-media/media.amp?camera=2 (stream 2 / View Area 2 H.2
 ### Dahua
 rtsp://username:password@ip_address:port/cam/realmonitor?channel=[channelNo]&subtype=[typeNo]
 
-<ip> – the IP address of the IP Camera.
+[ip] – the IP address of the IP Camera.
 
-<port> – the default port is 554. It can be omitted.
+[port] – the default port is 554. It can be omitted.
 
-<channelNo> – the channel number. It starts from 1.
+[channelNo] – the channel number. It starts from 1.
 
-<typeNo> – the stream type. The <typeNo> of main stream is 0, extra stream 1 is 1, extra stream 2 is 2.
+[typeNo] – the stream type. The [typeNo] of main stream is 0, extra stream 1 is 1, extra stream 2 is 2.
 
 
 ### Foscam
-rtsp://testuser:foscam@192.168.1.11:88/videoMain
-rtsp://testuser:foscam@192.168.1.11:88/videoSub
+rtsp://username:password@192.168.1.11:88/videoMain
+rtsp://username:password@192.168.1.11:88/videoSub
 
 ### Lorex
 See Dahua
