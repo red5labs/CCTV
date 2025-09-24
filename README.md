@@ -16,7 +16,7 @@ rtsp://xxx.xxx.xxx.xxx/axis-media/media.amp?camera=2 (stream 2 / View Area 2 H.2
 (VB-M42) http://username:password@XXX.XXX.XXX.XXX/-wvhttp-01-/video.cgi
 
 ### Dahua
-rtsp://<username>:<password>@<ip>:<port>/cam/realmonitor?channel=<channelNo>&subtype=<typeNo>
+rtsp://username:password@ip_address:port/cam/realmonitor?channel=[channelNo]&subtype=[typeNo]
 
 <ip> – the IP address of the IP Camera.
 
